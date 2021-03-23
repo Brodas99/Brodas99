@@ -10,7 +10,7 @@ Knowledge
 I'm currently learning and focusing on Machine Learning aspects in Data Science. 
 
 I work with 
- -  Python (Pandas, Matplotlib, Seaborn, Sklearn, Stasmodels)
+ -  Python (Pandas, Matplotlib, Seaborn, Sklearn, Statsmodels)
 - SQL (Postgres) 
 
 Connect on
