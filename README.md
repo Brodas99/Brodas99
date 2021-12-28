@@ -3,7 +3,7 @@
 
 About 
 ------------------------
-Bryan is a Economics graduate from the University of California, Santa Cruz. Currently working full time in Finance/Logistics and part time in the Professional Sports Industry, United Soccer League (USL Championship).
+Bryan is a Economics graduate from the University of California, Santa Cruz. Currently working full time as a Jr. Data Engineer and part time in the Professional Sports Industry, United Soccer League (USL Championship).
 
 Knowledge
 -----------------------
