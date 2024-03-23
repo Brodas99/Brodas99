@@ -3,7 +3,7 @@
 
 About 
 ------------------------
-Bryan is a Economics graduate from the University of California, Santa Cruz. Currently working full time as a Data Engineer @ Chicago Blackhawks
+Economics & Computer Science graduate from the University of California, Santa Cruz. Currently working full time as a Data Engineer @ Chicago Blackhawks
 
 Connect on
 -----------------------
