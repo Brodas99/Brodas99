@@ -14,7 +14,7 @@ Connect on
 <h3 align="left">Languages, Tools, and Frameworks:</h3>
 
 <a href="https://www.prefect.io/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/prefect-1.svg" alt="prefect" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" /> </a> 
 <a href="https://www.snowflake.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg" alt="snowflake" width="80" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a>
 <a href="https://nestjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/> </a>
